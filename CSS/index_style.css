@@ -1,0 +1,10 @@
+.profile-img-container {
+    max-width: 100%;
+    height: auto;
+    margin-top: 5px;
+}
+
+.icon-container a {
+    margin-right: 10px;
+    color: white;
+}
